@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jordan-zerb
+- 👀 I’m interested in researching algorithms and implementing small-scale projects
+- 🌱 I’m currently studying software engineering
