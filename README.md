@@ -14,7 +14,7 @@
 <ul>
   <li>Queensland Certificate of Education: <b>ATAR 89.90</b></li>
   <li>SIR30216 - Certificate III in Retail: <b>Completed</b></li>
-  <li>Bachelor of Engineering (Honours) / Bachelor of Information Technology: <b>Current GPA 5.857</b></li>
+  <li>Bachelor of Engineering (Honours) / Bachelor of Information Technology: <b>Current GPA 6.182</b></li>
 </ul>
 <h2>⌨️ Experience</h2>
 <ul>
