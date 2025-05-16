@@ -15,6 +15,8 @@
   <ul><li>Specialised in troubleshooting restaurant infrastructure by identifying and fixing hardware and software issues</li></ul></li>
 <li><h3>IT Support Officer @ 🌊 Wave International (2023 - Present)</h3>
   <ul><li>Scripting automation processes primarily working with endpoint management</li></ul></li>
+<li><h3>Volunteer Peer Tutor @ QUT (2025 - Present)</h3>
+  <ul><li>assisting with CAB202 (Microprocessors and Digital Systems)</li></ul></li>
 </ul>
 </body>
 </html>
